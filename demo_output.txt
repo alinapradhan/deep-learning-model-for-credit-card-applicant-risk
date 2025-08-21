@@ -1,0 +1,8 @@
+
+============================================================
+          BANK CREDIT CARD FRAUD DETECTION SYSTEM           
+============================================================
+Real-time AI-powered risk assessment for credit applications
+Demo Date: August 21, 2025 at 06:45 AM
+❌ Error: Cannot connect to API server
+Please start the server with: python api.py
